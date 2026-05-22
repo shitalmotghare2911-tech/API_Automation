@@ -1,5 +1,6 @@
 package tests;
 
-public class DemoClassForGit {
-
+public class DemoClassForGit 
+{
+	
 }
